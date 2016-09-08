@@ -6,6 +6,4 @@ Sept. 8, 2016 with ["These magnets have become some of L.A.'s highest-scoring pu
 The tests were administered under California's [CAASPP](http://www.caaspp.org/) program by the Los Angeles Unified School District during the 2015-2016 school year. Scores
 released by the state do not separate the performance of magnet programs that hosted on the campus of another school.
 
-This list, typically not made public, was obtained by Sohli Kohli in response to an information request with L.A. Unified.
-
-## Record layout
+This list, typically not made public, was obtained by Sonali Kohli in response to an information request with L.A. Unified.
