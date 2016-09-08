@@ -1,4 +1,4 @@
-magnet_location_code,magnet_name,magnet_grades_served,magnet_english_valid_scores,magnet_english_met_or_exceeded,magnet_math_valid_scores,magnet_math_met_or_exceeded,is_gifted_magnet,magnet_latitude,magnet_longitude,host_location_code,host_school_name,host_grades_served,host_english_valid_scores,host_english_met_or_exceeded,host_math_valid_scores,host_math_met_or_exceeded
+magnet_location_code,magnet_name,magnet_grades_served,magnet_english_valid_scores,magnet_english_met_or_exceeded_standards_percent,magnet_math_valid_scores,magnet_math_met_or_exceeded_standards_percent,is_gifted_magnet,magnet_latitude,magnet_longitude,host_location_code,host_school_name,host_grades_served,host_english_valid_scores,host_english_met_or_exceeded_standards_percent,host_math_valid_scores,host_math_met_or_exceeded_standards_percent
 8842,Sherman Oaks Center for Enriched Studies,4-12,1300,65,1299,50,no,34.18392375,-118.5382801,,,,,,,
 8741,Los Angeles Center for Enriched Studies,6-12,928,64,930,58,no,34.04356308,-118.3714501,,,,,,,
 8208,Thomas Starr King Middle School: Film and Media,6-8,926,40,940,23,no,34.09666077,-118.2838275,,,,,,,
